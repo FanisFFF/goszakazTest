@@ -17,6 +17,8 @@ a {
 }
 body {
   background: rgb(249, 249, 249);
+  margin: 0 auto;
+  max-width: 1200px;
 }
 header {
   height: 50px;
